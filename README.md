@@ -3,6 +3,6 @@ In this project I have used wifi module (ESP8266) and temperature sensor . A thr
 An alert message is sent on the telegram.
  
 ### Insights from the telegram 
-<img src="https://ibb.co/wMvnL6x.jpeg" 
+<img src="https://i.ibb.co/Ypr5Wjq/temo.jpg" border="0" 
      alt="Screenshot"  
      style="float: left" />
