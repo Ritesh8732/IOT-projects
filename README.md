@@ -6,6 +6,5 @@ An SMS alert is sent on the telegram.
  
 ### Insights from the telegram 
 
-<img src="https://i.ibb.co/Ypr5Wjq/temo.jpg" border="0" 
-     alt="Screenshot"  
-     style="float: left" />
+![alert](https://user-images.githubusercontent.com/47283395/127761162-4c49927f-00b0-44cf-bd0e-20acea02c922.jpg)
+
